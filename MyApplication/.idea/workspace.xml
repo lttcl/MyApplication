@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9660063b-474b-47b9-a725-b150807b6978" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../My/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../My/app/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../My/app/build.gradle" afterPath="" />
@@ -67,6 +66,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Shiyanxiangmu2/app/src/main/res/values/strings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Shiyanxiangmu2/app/src/main/res/values/styles.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Shiyanxiangmu2/app/src/test/java/com/example/taotao/shiyanxiangmu/ExampleUnitTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My Application.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,7 +120,6 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2169,7 +2168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472113434775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <created>1472113475317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1472113475317</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
